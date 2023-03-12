@@ -31,7 +31,7 @@ We've made a number of changes to DorsetExplorer from our old version (which we'
 
 ### Minor changes
 - Google Street View imagery will now open straight into Google Maps rather than in a popup bubble on the map
-- Only one 'search result' pin will be shown on the map at once
+- Only one 'search result' pin will be shown on the map at once by default. You can change this back to the previous behaviour by going into the search preferences dialog (the cog next to the search box) and checking 'Allow multiple search results on map at once'
 
 ### Removed features
 - The Coordinate Translator has been removed. It was under utilised and there are better alternatives out there for converting coordinates.

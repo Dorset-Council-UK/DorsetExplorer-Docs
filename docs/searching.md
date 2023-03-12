@@ -34,3 +34,6 @@ What you search for can be customised by clicking the cog icon next to the searc
 This will bring up a list showing you all the available searches and what order they are performed in. You can then choose to turn certain searches off and on by toggling the 'Enabled' checkbox.
 
 You can also choose how DorsetExplorer behaves when it finds a result. When you do a search, DorsetExplorer starts from the top of the list and works its way down until it finds a result. When it does, if the 'Stop if found' checkbox is checked, DorsetExplorer will not continue with any of the other searches. This prevents you from getting lots of potentially irrelevant results when a more relevant result has already been found. You can change this behaviour by toggling the 'Stop if found' checkboxes.
+
+!!! note
+    By default, only one search result you click is shown on the map at once. You can change this so the search results remain on the map by checking the 'Allow multiple search results on map at once' checkbox

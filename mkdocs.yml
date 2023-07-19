@@ -10,14 +10,8 @@ theme:
   features:
     - navigation.instant
   palette:
-    - scheme: default
-      toggle:
-        icon: material/weather-night
-        name: Switch to dark mode
-    - scheme: slate
-      toggle:
-        icon: material/weather-sunny
-        name: Switch to light mode
+    primary: custom
+
 markdown_extensions:
 - toc:
     permalink: true
@@ -29,7 +23,7 @@ extra:
   social:
     - icon: fontawesome/brands/github 
       link: https://github.com/Dorset-Council-UK/GIFramework-Maps
-copyright: All content is available under the Open Government Licence v3.0 except where otherwise stated
+copyright: All content is available under the Open Government Licence v3.0 except where otherwise stated. Screenshots contain OS data © Crown Copyright and database rights OS AC0000830671
 nav:
     - 'index.md'
     - 'the-basics.md'
@@ -43,6 +37,7 @@ nav:
     - 'filtering.md'
     - 'sharing-your-map.md'
     - 'exporting-and-printing.md'
+    - 'bookmarks.md'
     - 'copyright-and-acknowledgements.md'
     - 'terms-of-service.md'
     - 'privacy.md'

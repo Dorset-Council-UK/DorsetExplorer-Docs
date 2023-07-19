@@ -6,10 +6,10 @@ DorsetExplorer has a powerful built in search to help you find any place on the 
 ## Basic searching
 You can search for many different things including:
 
-* addresses (using postcodes or partial addresses)
+* addresses for Dorset and the surrounding areas (using postcodes or partial addresses)
 * UPRNs (Unique Property Reference Number)
 * village and town names
-* roads
+* roads in Dorset
 * place names 
 * British National Grid coordinates (12 figure or alphanumeric)
 * latitude/longitude coordinates (decimal or degrees/minutes/seconds)

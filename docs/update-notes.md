@@ -12,7 +12,7 @@ We've made a number of changes to DorsetExplorer from our old version (which we'
 - ✨ A redesigned layer control. The layer control is probably the most important part of DorsetExplorer, so we've given it a fresh lick of paint and added some additional functionality.
     - You can now choose to sort the folders alphabetically rather than by their default
     - The search is a bit friendlier and allows for basic spelling mistakes
-    - Layers now have a metadata available (via the 'i' button next to the name), so you can learn more about what a layer is and where it comes from
+    - Layers now have metadata available (via the 'i' button next to the name), so you can learn more about what a layer is and where it comes from
     - You can choose different styles for certain compatible layers
 - 📍 Add your own layers to the map. You can now add a GPX, KML, GeoJSON or IGC file simply by dragging and dropping it on to the map. You can also add layers from a number of external web services to further enhance your map
 - ✏ Editable annotations. You can now edit your annotations geometry and style after drawing them, and there are a bunch more styling options for them as well. The annotations toolbar is now on the left, instead of in its own panel on the right

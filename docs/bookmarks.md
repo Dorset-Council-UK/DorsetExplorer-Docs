@@ -13,7 +13,7 @@ To create a bookmark of your current location, just click the bookmarks menu in 
 You will be prompted to enter a name for your bookmark. The name must be unique and a maximum of 50 characters.
 
 !!! note
-    Bookmarks do not include the layers/basemaps you have switched on, rotation or annotations, they are just a center point and a zoom
+    Bookmarks do not include the layers/basemaps you have switched on, rotation or annotations, they are just a centre point and a zoom
 
 ## Using bookmarks
 

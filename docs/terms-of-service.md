@@ -1,20 +1,20 @@
-#Terms of use
+# Terms of use
 
-![Dorset Council Logo](https://static.geowessex.com/Shared/Logos/Dorset Council Logos/Dorset council logo_colour.svg){: style="height:100px;"}
+![Dorset Council Logo](https://gistaticprod.blob.core.windows.net/static/logos/dorset-council/Dorset%20council%20logo_colour.svg){: style="height:100px;"}
 
 This service is provided for anyone supporting or interacting with the council's core business.
 
-##Planning Maps
+## Planning Maps
 
 You may not use any features of this site to create a map or plan to accompany a planning application.
 
-##Planning applications terms and conditions
+## Planning applications terms and conditions
 
 [Read our full terms and conditions for planning applications.](https://planning.dorsetcouncil.gov.uk/disclaimer.aspx?returnURL=https://dorset-council-uk.github.io/DorsetExplorer-Docs/terms-of-service/)
 
-##Ordnance Survey Terms
+## Ordnance Survey Terms
 You are bound by the Ordnance Survey terms and conditions under the public sector end user licence while using this site.
-![OS Logo](https://static.geowessex.com/assets/image002.jpg){: style="height:79px;float:right;"}
+![OS Logo](https://gistaticprod.blob.core.windows.net/static/logos/os/os-logo-maps.svg){: style="height:79px;float:right;"}
 ###Public Sector End User Licence 
 
 <font size="2">

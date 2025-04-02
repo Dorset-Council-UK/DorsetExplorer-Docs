@@ -6,7 +6,7 @@ You can export your map to PDF for printing, sending to other people, or embeddi
 
 ## Exporting to PDF
 
-In the Export and Print panel, you can choose the [page size and orientation](#page-size) you want, what level of [quality](#quality) you need and, optionally, add a [title and subtitle](#titlesubtitle) to your map. You can also choose to add a [legend](#legend).
+In the Export and Print panel, you can choose the [page size and orientation](#page-size) you want, what level of [quality](#quality) you need and, optionally, add a [title and subtitle](#titlesubtitle) to your map. You can also choose to add a [legend](#legend), [north pointer](#north-pointer), and [scale bar](#scale-bar).
 
 ![Print panel - showing the options you have when exporting and printing](../assets/images/print-panel.png)
 
@@ -53,4 +53,9 @@ This option will put the legend on a separate page altogether, leaving your map 
 
 ![PDF output - showing an example of a map that has been exported with a separate legend](../assets/images/print-separate-legend.png)
 
+### North pointer
+You can add a simple North Pointer to your map, which will appear in the top right. The north pointer will rotate with your map.
+
+### Scale bar
+You can include a simple scale bar on your map. Scale bars are not intended for detailed measuring, and should only be used as a guide. 
 

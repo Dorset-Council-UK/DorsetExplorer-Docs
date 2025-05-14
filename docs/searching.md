@@ -13,7 +13,6 @@ You can search for many different things including:
 * place names 
 * British National Grid coordinates (12 figure or alphanumeric)
 * latitude/longitude coordinates (decimal or degrees/minutes/seconds)
-* What3Words identifiers
 * Plus Codes
 
 !!! note

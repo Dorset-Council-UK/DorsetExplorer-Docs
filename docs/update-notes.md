@@ -1,5 +1,11 @@
 # Update notes
 This page lists the updates we've made to DorsetExplorer and any changes you should be aware of. The [technical release notes can be found on GitHub](https://github.com/Dorset-Council-UK/GIFramework-Maps/releases).
+
+## Version 1.8.0
+- Added '[Centre map here](https://dorset-council-uk.github.io/DorsetExplorer-Docs/right-click/#centre-map-here)' option to right click menu
+- Fixed a bug where some layers couldn't be filtered properly
+- Improved the search box in the layer control to allow it to find more results more accurately
+
 ## Version 1.7.0
 - Added an option for including a simple [scale bar](./exporting-and-printing.md#scale-bar) on your prints
 - Some layers will now have disclaimers when you first click them to inform you of any important data quality or licencing information

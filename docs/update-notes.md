@@ -1,6 +1,14 @@
 # Update notes
 This page lists the updates we've made to DorsetExplorer and any changes you should be aware of. The [technical release notes can be found on GitHub](https://github.com/Dorset-Council-UK/GIFramework-Maps/releases).
 
+## Version 1.9.0
+- Fixed various minor bugs including
+  - Invisible links in tour when using dark mode
+  - Info click contents could exceed the container
+  - Filtering using Null values didn't work
+- Added additional information to your [Annotations](https://dorset-council-uk.github.io/DorsetExplorer-Docs/drawing/) such as area, perimeter, length and centre coordinates
+- Updated some behind the scenes code to improve speed and stability
+
 ## Version 1.8.0
 - Added '[Centre map here](https://dorset-council-uk.github.io/DorsetExplorer-Docs/right-click/#centre-map-here)' option to right click menu
 - Fixed a bug where some layers couldn't be filtered properly

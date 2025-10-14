@@ -15,6 +15,9 @@ You can search for many different things including:
 * latitude/longitude coordinates (decimal or degrees/minutes/seconds)
 * Plus Codes
 
+!!! note "Searching for lot/lons"
+    Searching for Latitude/Longitude currently requires quite specific formatting, and some formats may not work, so for the avoidance of doubt, try to search for these coordinates using this format either this format - 50° 48′ 49.2″ N 2° 28′ 29.3″ W - Degrees/Minutes/Seconds, or this format - 50.8137, -2.4748 - for decimal
+
 !!! note
     In some versions of DorsetExplorer, some of these options will not be available, or more options will be available.
 

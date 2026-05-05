@@ -1,6 +1,13 @@
 # Update notes
 This page lists the updates we've made to DorsetExplorer and any changes you should be aware of. The [technical release notes can be found on GitHub](https://github.com/Dorset-Council-UK/GIFramework-Maps/releases).
 
+## Version 1.11.0
+- Parsing of Degrees/Minutes/Seconds coordinates is now much more robust and can recognise and handle many more formats
+- Fixed various bugs including
+  - Features with certain geometry types would not highlight when clicked on
+  - Short links would not be generated in certain circumstances
+  - Some searches would not work properly with certain characters
+
 ## Version 1.10.0
 - Permalinks now include any filters that have been applied to a layer, allowing you to share a filtered layer with others easily
 - Vector layers now show legends where possible

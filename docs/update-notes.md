@@ -1,6 +1,11 @@
 # Update notes
 This page lists the updates we've made to DorsetExplorer and any changes you should be aware of. The [technical release notes can be found on GitHub](https://github.com/Dorset-Council-UK/GIFramework-Maps/releases).
 
+## Version 1.12.0
+- Fixed an issue where being redirected to login would lose your map state
+- Improved map behaviour when running in embedded contexts
+- Updated some behind the scenes code to improve speed and stability
+
 ## Version 1.11.0
 - Parsing of Degrees/Minutes/Seconds coordinates is now much more robust and can recognise and handle many more formats
 - Fixed various bugs including
